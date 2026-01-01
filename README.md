@@ -19,7 +19,7 @@
    ```
 4. Create a file named `.env` in the project root and paste the contents:
 ```
-WEATHER_API_KEY=24efb5d2ec9345c5a60123707260
+WEATHER_API_KEY=24efb5d2ec9345c5a60123707260101
 ```
 ---
 
