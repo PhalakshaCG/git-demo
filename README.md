@@ -17,7 +17,10 @@
    ```bash
    cd demo-app
    ```
-
+4. Create a file named `.env` in the project root and paste the contents:
+```
+WEATHER_API_KEY=24efb5d2ec9345c5a60123707260
+```
 ---
 
 ## Step 2: Checkout to a Custom Branch
