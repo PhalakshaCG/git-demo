@@ -33,5 +33,12 @@
 
 ---
 
+## Run the app to test it
+```bash
+npm install
+npm start
+```
+Open [http://localhost:3000/weather](http://localhost:3000/weather) to test the app
+
 ## Next Steps
 Proceed to the `exercise-1.md` file for the next part of the demo.
