@@ -3,7 +3,7 @@
 ## Step 1: Rebase Your Branch
 1. Ensure you are on your branch:
    ```bash
-   git checkout ${your branch name}
+   git log
    ```
 2. Update local main branch with remote branch contents
 ```bash
