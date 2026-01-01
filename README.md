@@ -23,7 +23,7 @@
 ## Step 2: Checkout to a Custom Branch
 1. Create and switch to a new branch:
    ```bash
-   git checkout -b feature/${your name here}
+   git checkout -b ${your name here}
    ```
 2. Verify that you are on the new branch:
    ```bash
